@@ -14,7 +14,7 @@
   }
   
   ::-webkit-scrollbar-track {
-    background: #f1f1f1;
+    background-color: #f1f1f1;
   }
   
   .loader_bg {
@@ -122,7 +122,7 @@
   
   .navbar.sticky {
     padding: 15px 0;
-    background: #fff;
+    background-color: #fff;
   }
   
   .navbar .max-width {
